@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/thienlong5445/thien-long/issues"
   },
-  "homepage": "https://github.com/thienlong5445/thien-long#readme"
+  "homepage": "https://github.com/thienlong5445/thien-long#readme",
+  "dependencies": {
+    "sas": "^3.0.4"
+  }
 }
